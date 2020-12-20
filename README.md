@@ -4,4 +4,4 @@ Matrix Calculator for Course Work
 (C) Created by Oleksandr Ivashchenko
     2020, Vyshhorod, Kyiv region
 
- Telegramm: https://t.me/rockiee
+ Telegram: https://t.me/rockiee
