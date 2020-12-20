@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Matrix Calculator CW</string>
+    <string name="app_surname">Matrix calculator</string>
+    <string name="app_version" translatable="false">v%1$s</string>
+
+    <string name="display_matrix_name">Матриця</string>
+    <string name="display_matrix_letter" translatable="false">ABCD</string>
+    <string name="display_hint_number">Введіть число&#8230;</string>
+    <string name="display_hint_text">Введіть назву&#8230;</string>
+    <string name="display_row">Рядки</string>
+    <string name="display_column">Стовпці</string>
+    <string-array name="display_dimension" translatable="false">
+        <item>@string/display_row</item>
+        <item>@string/display_column</item>
+    </string-array>
+    <string-array name="display_dimension_entry" translatable="false">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string name="display_button_next">Далі</string>
+    <string name="display_button_solve">Вирішити</string>
+    <string name="display_select_matrix">Оберіть матрицю для продовження</string>
+
+    <string name="display_result_title">Результат</string>
+    <string name="display_rank">Ранг</string>
+    <string name="display_determinant">Визначник</string>
+    <string name="display_trace">Слід</string>
+
+    <string name="placeholder_seekbar" translatable="false">%1$s: %2$d</string>
+    <string name="placeholder_matrix_name" translatable="false">%1$s %2$c</string>
+    <string name="placeholder_matrix_title" translatable="false">%1$s: [%2$d, %3$d]</string>
+    <string name="placeholder_matrix_prop" translatable="false">%1$s: %2$s</string>
+    <string name="placeholder_matrix_dimensions">Розмір за замовчуванням - [%1$d, %2$d]</string>
+    <string name="placeholder_random_range">Випадковий діапазон - [%1$d, %2$d]</string>
+
+    <string name="message_saved_matrix">Матриця збережена</string>
+
+    <string name="error_title">Помилка</string>
+    <string name="error_select_matrix">Оберіть %1$d матрицю</string>
+    <string name="error_existing_matrix">Матриця вже створена</string>
+
+    <string-array name="operation_title">
+        <item>Характеристика матриці</item>
+        <item>Обернена матриця</item>
+        <item>Додавання матриць</item>
+        <item>Віднімання матриць</item>
+        <item>Множення матриць</item>
+    </string-array>
+    <string-array name="operation_description">
+        <item>Визначник, ранг, слід</item>
+        <item>A&lt;sup&gt;&lt;small&gt;-1&lt;/small&gt;&lt;/sup&gt;</item>
+        <item>A + B</item>
+        <item>A - B</item>
+        <item>A · B</item>
+    </string-array>
+</resources>
